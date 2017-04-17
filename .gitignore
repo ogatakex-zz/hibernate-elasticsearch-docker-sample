@@ -1,5 +1,6 @@
 *.iml
 .idea/
+target/
 
 db/
 index/data/
