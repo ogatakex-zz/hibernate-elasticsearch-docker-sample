@@ -1,5 +1,7 @@
 *.iml
 .idea/
 
-db/**
-index/data/**
+db/
+index/
+
+!.gitkeep
